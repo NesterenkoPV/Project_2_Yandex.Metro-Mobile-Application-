@@ -1,1 +1,1 @@
-# Project_2_Yandex.Metro-Mobile-Application-
+# 2️⃣ Тестирование мобильного приложения "Яндекс.Метро" для Android.

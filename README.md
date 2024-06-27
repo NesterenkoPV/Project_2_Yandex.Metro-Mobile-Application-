@@ -5,9 +5,9 @@
 <a href="https://drive.google.com/file/d/1_cafC8fnOtM5RFcgGzMxykP9QmCU_v96/view?usp=drive_link">_Требования к мобильному приложению "Яндекс. Метро"._
 
 * Провёл тест-анализ требований.
-* Составил чек-лист функционального тестирования для частей продукта, которые затронул рефакторинг приложения.
-* Подготовил таблицу принятия решений для проверки логики списка станций в окне истории о маршруте.
-* Составил чек-лист регрессионного тестирования.
+* Составил  <a href="https://docs.google.com/spreadsheets/d/15Wtdry0kNiYG_3gKH3LHbuFOUI8bhMPi/edit?usp=drive_link&ouid=106897186254420061142&rtpof=true&sd=true">чек-лист функционального тестирования</a> для частей продукта, которые затронул рефакторинг приложения.
+* Подготовил  <a href="https://docs.google.com/spreadsheets/d/1CHjF7aY-mdwHPB4lK08MyAbFuVgd14HF/edit?usp=drive_link&ouid=106897186254420061142&rtpof=true&sd=true">таблицу принятия решений</a> для проверки логики списка станций в окне истории о маршруте.
+* Составил  <a href="https://docs.google.com/spreadsheets/d/1e5_vvkEtaLTzApuVSW-hyiSKr0mPpRRg/edit?usp=drive_link&ouid=106897186254420061142&rtpof=true&sd=true">чек-лист регрессионного тестирования</a>.
 * Провёл проверки по созданным чек-листам при помощи эмулятора Android Studio и в некоторых случаях реального устройства. 
-* Найденные баги зафиксировал в баг-трекере (YouTrack).
+* Найденные  <a href="https://nesterenkopv.youtrack.cloud/issues?q=tag:%20%7B%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%9C%D0%B5%D1%82%D1%80%D0%BE.%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%203-%D0%B3%D0%BE%20%D1%81%D0%BF%D1%80%D0%B8%D0%BD%D1%82%D0%B0.%7D">баги зафиксировал в баг-трекере</a> (YouTrack).
 * Написал отчёт о тестировании.
